@@ -1,5 +1,5 @@
 # Golden State Warriors Analysis
 
-Code used to prepare for one of my Tableau projects:
+Code used to prepare data for one of my Tableau projects:
 
 https://public.tableau.com/app/profile/darion.guan/viz/2015-2016GoldenStateWarriors/Dashboard1
